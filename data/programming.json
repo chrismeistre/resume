@@ -1,0 +1,55 @@
+[
+    {
+        "name": "HTML5",
+        "level": "4"
+    },
+    {
+        "name": "Angular",
+        "level": "4"
+    },
+    {
+        "name": "PHP",
+        "level": "5"
+    },
+    {
+        "name": "Android",
+        "level": "3"
+    },
+    {
+        "name": "Java",
+        "level": "3"
+    },
+    {
+        "name": "C#",
+        "level": "3"
+    },
+    {
+        "name": "JQuery",
+        "level": "4"
+    },
+    {
+        "name": "Javascript",
+        "level": "5"
+    },
+    {
+        "name": "Python",
+        "level": "3"
+    },
+    {
+        "name": "NodeJS",
+        "level": "4"
+    },
+    {
+        "name": "Typescript",
+        "level": "4"
+    },
+    {
+        "name": "CSS",
+        "level": "3"
+    },
+    {
+        "name": "Laravel",
+        "level": "4"
+    }
+
+]

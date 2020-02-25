@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Helpdesk System",
+        "content": "<p>A customised Electronic Helpdesk System was developed, with the following features:<ol><li>Multiple Users, Categories and Priorities</li><li>Customer login to view ticket status</li><li>Automatic notification via email and SMS when a new ticket created or updated</li><li>Hosted solution so anyone can access it</li></ol></p>"
+    },
+    {
+        "title": "Plumbers System Management",
+        "content": "<p>We developed software for a large plumbing business. The software handles everything from the moment a client calls in with a problem, right up to the invoicing.</p>"
+    },
+    {
+        "title": "Client Database Management",
+        "content": "<p>This system was developed for a client, and modified for a few others, to provide them with a custom solution to manage their client information.</p><p>This included: <ol><li>SMS integration for notifications</li><li>Automated debit order runs integrated with a provider</li></ol></p>"
+    },
+    {
+        "title": "Recruitment Agency Management",
+        "content": "<p>We developed a customised solution for a recruitment agency that included online psychometric tests for applicants to complete.</p>"
+    },
+    {
+        "title": "Waybill Management System",
+        "content": "<p>We developed software for a big courier company to keep track of their waybill numbers.  This enabled them to log and scan in their waybill numbers. Other users are then able to search the database.</p>"
+    },
+    {
+        "title": "Content Management Systems",
+        "content": "<p>We have developed our own, as well as extended and customised open source, solutions for the online content management system market. This included Drupal, Joomla and Wordpress.</p>"
+    },
+    {
+        "title": "Ecommerce",
+        "content": "<p>We have developed our own, as well as extended and customised open source, solutions for the online ecommerce market. This included Drupal Ubercart, OSCommerce and OpenCart.</p><p>This included integration with online payment systems for credit card processing and automated shipping calculation.</p>"
+    },
+    {
+        "title": "Multilevel Marketing Management System",
+        "content": "<p>We development a membership management system for a multilevel marketing business that deals with around 400,000 members.</p><p>This included integration into their own base system where information is fed into the database.</p>"
+    },
+    {
+        "title": "Cryptocurrency Exchange System",
+        "content": "<p>I am part of a team that has developed an online trading platform for various cryptocurrencies.  My role is the lead developer, as well as working closely with the system administration and system analyst teams.</p><p>I have been exposed to, and assisted with, setting up various blockchain solutions and cryptocurrency wallets.  Once these were set up I also had to integrate them into our various systems.</p><p>The system is also integrated into accepting EFT bank payments.</p>"
+    },
+    {
+        "title": "Ticket Management System",
+        "content": "<p>I was tasked to do customisation on an opensource ticket management system (OSTicket).  This involved a number of bespoke changes and integrating it with another time management system.</p>"
+    },
+    {
+        "title": "Stock Control System",
+        "content": "<p>I worked on a stock control system for a security company.  This involved setting up a system for managers and stock controllers to manage the ordering and approval process for their guards.</p><p>The system was developed to work on mobile devices where the users were able to use electronic signatures that were saved for legal purposes.</p><p>It was built on the Laravel PHP framework.</p>"
+    },
+    {
+        "title": "Lead Developer on various projects",
+        "content": "<p>I have been contracted to a number of companies where I performed the duties of a hands on lead developer and as a consultant.</p><p>The duties included managing various developers, providing feedback on current and future systems and providing code reviews.</p>"
+    }
+    
+]
