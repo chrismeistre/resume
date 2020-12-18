@@ -50,6 +50,10 @@
     {
         "name": "Laravel",
         "level": "4"
+    },
+    {
+        "name": "VueJS",
+        "level": "2"
     }
 
 ]
