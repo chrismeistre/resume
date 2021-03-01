@@ -16,12 +16,16 @@
         "level": "5"
     },
     {
-        "name": "Web Security",
+        "name": "Search Engine Optimisation",
         "level": "5"
     },
     {
-        "name": "Search Engine Optimisation",
+        "name": "Web Application Security",
         "level": "5"
+    },
+    {
+        "name": "Server Penetration Testing",
+        "level": "4"
     }
 
 ]
